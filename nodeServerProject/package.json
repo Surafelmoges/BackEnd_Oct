@@ -1,0 +1,14 @@
+{
+  "name": "nodeserverproject",
+  "version": "1.0.0",
+  "main": "myWebServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mime-types": "^3.0.1"
+  }
+}
